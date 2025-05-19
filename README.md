@@ -1,2 +1,7 @@
 # config-server
 Config Server
+
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+
+eureka.instance.hostname=localhost
